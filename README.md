@@ -23,10 +23,7 @@ https://react-invoice-generator.web.app/
 - Html-to-image
 - jsPDF
 
-### Instalation
 
-```
-git clone https://github.com/hourmeng12/invoice-generator
 
 npm install
 
